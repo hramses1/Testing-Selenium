@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 
 # Virtual Environment
-env/
+.env
 
 # IDEs
 .vscode/
@@ -16,3 +16,8 @@ env/
 
 # Output files
 output.txt
+*.pytest_cache/
+*./
+*__pycache__/
+*.idea/
+*.env
