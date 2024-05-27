@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+env/
+
+# IDEs
+.vscode/
+*.idea/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Output files
+output.txt
